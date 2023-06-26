@@ -1,0 +1,21 @@
+.wrap35{
+width:80%;
+
+margin:auto;
+}
+.img35{
+width:80%;
+height:600px;
+background-size: 140% 590px;
+border-radius: 10px;
+margin-top:20px;
+}
+.text35{
+font-size: 30px;
+font-weight: 30px;
+padding-left:20px;
+margin-top:20px;
+}
+.img35:hover{
+    transform: scale(1.05);
+}

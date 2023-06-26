@@ -1,0 +1,66 @@
+:root {
+    --white-color : #fff;
+    --black-color : #000;
+    --text-color : #333 ;
+    --tmdbDarkBlue: 3,37,65;
+    --texthover : 	#3399FF;
+    --backgrload : #00CCFF;
+}
+
+*{
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62,5%;
+    line-height: 1.6rem ;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+.grid {
+    width: 1350px;
+    max-width: 100%;
+    margin: 0  auto;
+   
+}
+.grid__row{
+    display: flex;
+    flex-wrap:wrap ;
+    margin-left: -8px;
+    margin-right:-8px ;
+    
+}
+.grid__columm-2-5{
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 20.8334%;
+
+}
+.grid__columm-2-4{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 20px;
+    width: 20%;
+}
+.grid__columm-10{
+   
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 79.1666%;
+}
+
+.grid__columm-12{
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 100%;
+}
+
+@keyframes fadeIn {
+    form {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+

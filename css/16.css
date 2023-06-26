@@ -1,0 +1,51 @@
+.background16{
+border: 1px solid black;
+width:82%;
+height: 340px;
+background-image: url(324.jpg);
+padding:15px 60px;
+margin:auto;
+border-radius: 10px;
+}
+.wrap16{
+    
+}
+.join16{
+
+}
+.a16{
+font-size: 60px;
+font-weight: 20px;
+color:white;
+text-decoration: none;
+}
+.column16{
+    display: flex;
+
+}
+.column116{
+padding-top:18px;
+font-size: 22px;
+margin-right:80px;
+}
+.column216{
+    font-size: 22px;
+    overflow: hidden;
+}
+.button16{
+    border:1px solid black;
+    padding:10px 10px;
+    background-color: antiquewhite;
+    font-size: 22px;
+margin-top:10px;
+border-radius: 10px;
+}
+.li16{
+    color:white;
+}
+.text16{
+    color:white;
+}
+.abutton16{
+    text-decoration: none;
+}

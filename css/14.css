@@ -1,0 +1,51 @@
+.wrap14{
+    border: 1px solid black;
+    width:80%;
+    height: 335px;
+    background-image: url(anh1.jpg);
+    padding:15px 60px;
+    margin:auto;
+}
+.top14{
+font-size: 30px;
+font-weight: 30px;
+color:white;
+padding-top:18px;
+}
+.bottom14{
+    margin-top:25px;
+    display: flex;
+    overflow: auto;
+}
+wrap114{
+width:auto;
+height:auto;
+margin-right:20px;
+
+}
+.img14{
+width:270px;
+height:180px;
+box-sizing: border-box;
+border-radius: 10px;
+margin-right:20px;
+}
+
+.text14{
+margin-top:10px;
+
+}
+.text114{
+font-size: 20px;
+font-weight: 28px;
+color:white;
+
+}
+.text214{
+font-size: 16px;
+color:white;
+
+}
+.img14:hover{
+    transform: scale(1.1025);
+}

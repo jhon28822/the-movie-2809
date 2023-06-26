@@ -1,0 +1,59 @@
+.wrap34{
+    
+    width:80%;
+    height: 480px;
+    padding:15px 60px;
+    margin:auto;
+}
+.top34{
+font-size: 30px;
+font-weight: 30px;
+padding-top:12px;
+padding-bottom:15px;
+padding-left:30px;
+}
+.bottom34{
+display: flex;
+overflow: auto;
+
+}
+.wrap134{
+
+}
+.img34{
+width:400px;
+height:280px;
+border-radius: 10px;
+margin-right:18px;
+
+}
+.vote34{
+border:5px solid greenyellow;
+border-radius: 100%;
+font-size: 15px;
+padding:10px 12px;
+display: block;
+position: relative;
+left:10px;
+bottom:25px;
+}
+.text34{
+    margin-top:-20px;
+    padding-left:10px;
+}
+.text134{
+font-size: 24px;
+color:black;
+text-align: center;
+margin-top:20px;
+
+}
+.text234{
+    font-size: 16px;
+    color:gray;
+    text-align: center;
+    
+}
+.img34:hover{
+    transform: scale(1.012);
+}
